@@ -1,6 +1,6 @@
 ### Cat_Revenge
 *Final assignment for Intro to CS, fall 2020*
 
-![Start page](/Cat_Revenge/Cover.png)
+![Start page](https://github.com/yaya1721/Cat_Revenge/blob/main/Cover.jpg)
 
-![Game](/Cat_Revenge/Screenshot.png)
+![Game](https://github.com/yaya1721/Cat_Revenge/blob/main/Screenshot.png)
